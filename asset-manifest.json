@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-music/static/css/main.e7ca8bdc.css",
+    "main.js": "/simple-music/static/js/main.a9541730.js",
+    "index.html": "/simple-music/index.html",
+    "main.e7ca8bdc.css.map": "/simple-music/static/css/main.e7ca8bdc.css.map",
+    "main.a9541730.js.map": "/simple-music/static/js/main.a9541730.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7ca8bdc.css",
+    "static/js/main.a9541730.js"
+  ]
+}
